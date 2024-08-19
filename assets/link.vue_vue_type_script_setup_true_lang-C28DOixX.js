@@ -1,1 +1,0 @@
-import{l as r}from"./lowCodeStore-DxJieuWc.js";import m from"./commonSetForm-DsVuFJ_v.js";import{d as n,a,o as c,i as s}from"./index-B1Bxyaam.js";const d=n({__name:"link",props:{componentsData:{type:Object}},setup(o){r();const e=o,t=a(null);return(p,f)=>(c(),s(m,{"form-data":e.componentsData,ref_key:"commonSetForm",ref:t},null,8,["form-data"]))}});export{d as _};

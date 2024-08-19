@@ -1,0 +1,1 @@
+import{l as e}from"./lowCodeStore-0dVFdFd5.js";import a from"./commonSetForm-h0_8mDpC.js";import{d as r,o as m,i as n}from"./index-CQpPS6KF.js";const _=r({__name:"image",props:{componentsData:{type:Object}},setup(o){e();const t=o;return(p,s)=>(m(),n(a,{"form-data":t.componentsData},null,8,["form-data"]))}});export{_};
