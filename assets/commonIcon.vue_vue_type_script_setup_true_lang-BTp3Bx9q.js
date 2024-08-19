@@ -1,1 +1,0 @@
-import{d as e,o as n,i as a,q as c}from"./index-CQpPS6KF.js";const m=e({__name:"commonIcon",props:{icon:String,classStyle:{type:Boolean,default:!1}},setup(o){return(t,s)=>(n(),a(c(o.icon)))}});export{m as _};
