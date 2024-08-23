@@ -1,1 +1,0 @@
-/* empty css                                                                                  */import{_ as t,o,c as a,r as c}from"./index-8ixZQw2x.js";const n={},s={class:"ctd-main"};function r(e,d){return o(),a("div",s,[c(e.$slots,"default",{},void 0,!0)])}const f=t(n,[["render",r],["__scopeId","data-v-afcf36b5"]]);export{f as default};
